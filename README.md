@@ -1,4 +1,2 @@
-# 规则
-##
-1.命名：序号-题目名字-难度。
-	例如1-将每个元素换为右侧最大的元素-简单
+# emm...just for diagrams.net
+so far,i don't really know what it works,but i will figure it out...
