@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T13:48:35.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0ZdM48FTLXBTliSZo9cG" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T13:53:36.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="3N4CKxleGAcLuYQrd7ST" version="13.6.2" type="github">
   <diagram id="m3pZd3oeYn9BSngcWQGL" name="第 1 页">
     <mxGraphModel dx="1422" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-1" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; ; font-size: 12pt&quot;&gt;&lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public class &lt;/span&gt;B&lt;br&gt;{&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static &lt;/span&gt;B &lt;span style=&quot;color: #660e7a ; font-style: italic&quot;&gt;t1 &lt;/span&gt;= &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static &lt;/span&gt;B &lt;span style=&quot;color: #660e7a ; font-style: italic&quot;&gt;t2 &lt;/span&gt;= &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    {&lt;br&gt;        System.&lt;span style=&quot;color: #660e7a ; font-weight: bold ; font-style: italic&quot;&gt;out&lt;/span&gt;.println(&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold ; font-family: &amp;quot;arial&amp;quot;&quot;&gt;构造块&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;);&lt;br&gt;    }&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;static&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;    &lt;/span&gt;{&lt;br&gt;        System.&lt;span style=&quot;color: #660e7a ; font-weight: bold ; font-style: italic&quot;&gt;out&lt;/span&gt;.println(&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold ; font-family: &amp;quot;arial&amp;quot;&quot;&gt;静态块&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;);&lt;br&gt;    }&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static void &lt;/span&gt;main(String[] args)&lt;br&gt;    {&lt;br&gt;        B t = &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    }&lt;br&gt;}&lt;/pre&gt;" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;align=left;" vertex="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-1" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; ; font-size: 12pt&quot;&gt;&lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public class &lt;/span&gt;B&lt;br&gt;{&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static &lt;/span&gt;B &lt;span style=&quot;color: #660e7a ; font-style: italic&quot;&gt;t1 &lt;/span&gt;= &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static &lt;/span&gt;B &lt;span style=&quot;color: #660e7a ; font-style: italic&quot;&gt;t2 &lt;/span&gt;= &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    {&lt;br&gt;        System.&lt;span style=&quot;color: #660e7a ; font-weight: bold ; font-style: italic&quot;&gt;out&lt;/span&gt;.println(&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold ; font-family: &amp;quot;arial&amp;quot;&quot;&gt;构造块&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;);&lt;br&gt;    }&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;static&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;    &lt;/span&gt;{&lt;br&gt;        System.&lt;span style=&quot;color: #660e7a ; font-weight: bold ; font-style: italic&quot;&gt;out&lt;/span&gt;.println(&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold ; font-family: &amp;quot;arial&amp;quot;&quot;&gt;静态块&lt;/span&gt;&lt;span style=&quot;color: #008000 ; font-weight: bold&quot;&gt;&quot;&lt;/span&gt;);&lt;br&gt;    }&lt;br&gt;    &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;public static void &lt;/span&gt;main(String[] args)&lt;br&gt;    {&lt;br&gt;        B t = &lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;new &lt;/span&gt;B();&lt;br&gt;    }&lt;br&gt;}&lt;/pre&gt;" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="200" y="90" width="380" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-4" value="" style="endArrow=classic;html=1;sketch=1;" edge="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-4" value="" style="endArrow=classic;html=1;sketch=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="420" as="sourcePoint" />
             <mxPoint x="270" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-5" value="所有的静态成员进行声明，但是 t1 需要被显式初始化，但是不会调用静态代码块，因为JVM以为已经加载了" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;align=center;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-5" value="所有的静态成员进行声明，但是 t1 需要被显式初始化，但是不会调用静态代码块，因为JVM以为已经加载了" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;align=center;fontSize=15;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="210" y="500" width="380" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-6" value="" style="endArrow=classic;html=1;sketch=1;" edge="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-6" value="" style="endArrow=classic;html=1;sketch=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="590" as="sourcePoint" />
             <mxPoint x="330" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-7" value="两次构造块，接着才是没有完成的主类需要调用的静态代码块" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;align=center;" vertex="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-7" value="两次构造块，接着才是没有完成的主类需要调用的静态代码块" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="670" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-8" value="" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-8" value="" style="endArrow=classic;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=15;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="750" as="sourcePoint" />
             <mxPoint x="350" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XOsb-ibtdK0wB9zpoFZg-9" value="静态代码块，构造代码块" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;align=center;" vertex="1" parent="1">
+        <mxCell id="XOsb-ibtdK0wB9zpoFZg-9" value="静态代码块，构造代码块" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="820" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
